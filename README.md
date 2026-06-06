@@ -1,4 +1,8 @@
-# [Start Bootstrap - Small Business](https://startbootstrap.com/template-overviews/small-business/)
+# kevinpbartlett.com website hosted on Github
+
+Remainder of this README is from the Bootstrap template I downloaded for the site:
+
+[Start Bootstrap - Small Business](https://startbootstrap.com/template-overviews/small-business/)
 
 [Small Business](http://startbootstrap.com/template-overviews/small-business/) is a responsive marketing landing page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
